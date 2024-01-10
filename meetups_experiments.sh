@@ -16,7 +16,7 @@ do
         --device "cpu" \
         -d $i \
         -it 300 \
-        -o "meetups_experiments_40/$model.$i.$exp.json"
+        -o "meetups_experiments/$model.$i.$exp.json"
     done
   done
 done
