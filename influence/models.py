@@ -29,7 +29,8 @@ class BaseInfluencePredictor(nn.Module):
     initial_graph = input_adj
     graph_power = input_adj
     for i in range(2, power + 1):
-      graph_power = torch.mm(graph_power, initial_graph)
+      #graph_power = torch.mm(graph_power, initial_graph)
+      graph_power = matrix_power_binary_exponentiation(graph_power,2)
       coeff = torch.tensor(1 / factorial(i))
       input_adj = input_adj + (coeff * graph_power)
     
@@ -201,3 +202,17 @@ class DNNInfluencePredictor(FitInfluencePredictor):
     
     return loss, w_input
 
+def is_symmetric(matrix):
+    # Verifica se la differenza tra la matrice e la sua trasposta è zero
+    return torch.allclose(matrix, matrix.t())
+
+def matrix_power_binary_exponentiation(matrix, power):
+    result = torch.eye(matrix.size(0), dtype=matrix.dtype, device=matrix.device)
+
+    while power > 0:
+        if power % 2 == 1:
+            result = torch.mm(result, matrix)
+        matrix = torch.mm(matrix, matrix)
+        power //= 2
+
+    return result

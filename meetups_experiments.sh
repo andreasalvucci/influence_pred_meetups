@@ -1,8 +1,8 @@
 #!/bin/bash
 
-for i in {1..5}
+for i in {1..2}
 do
-  echo "iterazione $i"
+  echo "communicability degree: $i"
   for exp in {1..5}
   do
     echo "esperimento $exp"
