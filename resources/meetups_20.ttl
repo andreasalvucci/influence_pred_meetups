@@ -1,0 +1,1302 @@
+@prefix ns1: <http://w3id.org/polifonia/ontology/meetups-ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://w3id.org/polifonia/pilot/meetups/1354841/12/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/2355998124adb019d2f6536dabc56255>,
+        <http://w3id.org/polifonia/pilot/meetups/b370db259bb96c27b393e20667157e00> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/personallife> ;
+    ns1:hasConfidence "0.9994104" ;
+    ns1:hasEvidenceText "Clarence Cameron White, Jr. (March 11, 1908–January 30, 1913)Beatrice died at their home in Elizabeth, New Jersey, in October 1942." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Clarence_Cameron_White>,
+        <http://dbpedia.org/resource/Princess_Beatrice_of_the_United_Kingdom> ;
+    ns1:hasPlace <http://dbpedia.org/resource/New_Jersey> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Clarence_Cameron_White> .
+
+<http://w3id.org/polifonia/pilot/meetups/1354841/12/1> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/c3395dd46c34fa7fd8d729d8cf88b7a8> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/publiccelebration> ;
+    ns1:hasConfidence "0.5068502" ;
+    ns1:hasEvidenceText "White soon moved to New York City and in 1943 married the librarian, writer, and puppeteer, Pura Belpré." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Librarian>,
+        <http://dbpedia.org/resource/Puppeteer> ;
+    ns1:hasPlace <http://dbpedia.org/resource/New_York_City> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Clarence_Cameron_White> .
+
+<http://w3id.org/polifonia/pilot/meetups/1392224/10/13> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/d46e1fcf4c07ce4a69ee07e4134bcef1> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/personallife> ;
+    ns1:hasConfidence "0.82515264" ;
+    ns1:hasEvidenceText "was the way Grace Glueck titled her article in the New York Times in 1965: \"Silence was an integral part of Marisol's work and life." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Grace_Glueck>,
+        <http://dbpedia.org/resource/Marisol_Escobar> ;
+    ns1:hasPlace <http://dbpedia.org/resource/New_York_City> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Marisol_Escobar> .
+
+<http://w3id.org/polifonia/pilot/meetups/1392224/14/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/6fe554dcd0b7bcec8181fbf0afd071c1> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/publiccelebration> ;
+    ns1:hasConfidence "0.99999905" ;
+    ns1:hasEvidenceText "Marisol received awards including the 1997 Premio Gabriela Mistral from the Organization of American States for her contribution to Inter-American culture." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Gabriela_Mistral>,
+        <http://dbpedia.org/resource/Marisol_Escobar> ;
+    ns1:hasPlace <http://dbpedia.org/resource/United_States> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Marisol_Escobar> .
+
+<http://w3id.org/polifonia/pilot/meetups/1392224/2/17> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/1f71e393b3809197ed66df836fe833e5>,
+        <http://w3id.org/polifonia/pilot/meetups/93a04b066fd81a1017825f2dcda313b2> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/education> ;
+    ns1:hasConfidence "0.99999356" ;
+    ns1:hasEvidenceText "Marisol Escobar began her formal arts education in 1946 with night classes at the Otis Art Institute and the Jepson Art Institute in Los Angeles, where she studied under Howard Warshaw and Rico Lebrun." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Kelvim_Escobar>,
+        <http://dbpedia.org/resource/Marisol_Escobar> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Los_Angeles> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Marisol_Escobar> .
+
+<http://w3id.org/polifonia/pilot/meetups/1392224/2/6> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/377ae60a5dcbce524642a80baef3f746> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/personallife> ;
+    ns1:hasConfidence "0.9931477" ;
+    ns1:hasEvidenceText "The tragedy, followed by her father shipping Marisol off to boarding school in Long Island, New York, for one year, affected her very deeply." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Kelvim_Escobar>,
+        <http://dbpedia.org/resource/Marisol_Escobar> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Long_Island>,
+        <http://dbpedia.org/resource/New_York_City> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Marisol_Escobar> .
+
+<http://w3id.org/polifonia/pilot/meetups/1392224/8/37> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/a82d922b133be19c1171534e6594f754> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/education> ;
+    ns1:hasConfidence "0.982107" ;
+    ns1:hasEvidenceText "The sculptural imitation of President Charles de Gaulle (1967) would be an example, as a leader of France known for his autocratic style of leadership." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Charles_de_Gaulle>,
+        <http://dbpedia.org/resource/President_of_France> ;
+    ns1:hasPlace <http://dbpedia.org/resource/France> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Marisol_Escobar> .
+
+<http://w3id.org/polifonia/pilot/meetups/1578500/8/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/6ca48a040b383011c27a92c19577d3c6> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/businessmeeting> ;
+    ns1:hasConfidence "0.9935942" ;
+    ns1:hasEvidenceText "Bat Masterson, a fictionalized recounting of the life of the real-life U.S. Marshal, gambler, and gunman (Masterson's life as a writer and bon vivant occurred long after the time frame featured in the series) was broadcast by NBC-TV from 1958 to 1961." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Bat_Masterson>,
+        <http://dbpedia.org/resource/Justin_Masterson> ;
+    ns1:hasPlace <http://dbpedia.org/resource/United_States> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Gene_Barry> .
+
+<http://w3id.org/polifonia/pilot/meetups/1714891/0/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/7d2b92b6726c241134dae6cd3fb8c182>,
+        <http://w3id.org/polifonia/pilot/meetups/dca214f60c2a6e4df40b8280a269aabd> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/personallife> ;
+    ns1:hasConfidence "0.534866" ;
+    ns1:hasEvidenceText "Mirriam Johnson (born May 25, 1943), known professionally as Jessi Colter, is an American country music artist who is best known for her collaborations with her husband, country singer and songwriter Waylon Jennings, and for her 1975 country-pop crossover hit \"I'm Not Lisa\"." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Jessi_Colter>,
+        <http://dbpedia.org/resource/Lyndon_B._Johnson>,
+        <http://dbpedia.org/resource/Waylon_Jennings> ;
+    ns1:hasPlace <http://dbpedia.org/resource/United_States> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Jessi_Colter> .
+
+<http://w3id.org/polifonia/pilot/meetups/1714891/14/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/f28648e013796bbbc8821a5fc93f76d6> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/publiccelebration> ;
+    ns1:hasConfidence "0.99982905" ;
+    ns1:hasEvidenceText "The second single was nevertheless a huge country/pop success and later that year, Colter launched a nationwide tour as part of Waylon Jennings' program at the Santa Monica Civic Auditorium." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Jessi_Colter>,
+        <http://dbpedia.org/resource/Waylon_Jennings> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Santa_Monica_Civic_Auditorium> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Jessi_Colter> .
+
+<http://w3id.org/polifonia/pilot/meetups/1714891/5/1> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/f106b7f99d2cb30c3db1c3cc0fde9ccb> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/publiccelebration> ;
+    ns1:hasConfidence "0.45904878" ;
+    ns1:hasEvidenceText "After marrying guitarist Duane Eddy in 1961, and still using her real name of Mirriam Johnson, she released two singles that were issued on the Jamie label." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Duane_Eddy>,
+        <http://dbpedia.org/resource/Lyndon_B._Johnson> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Phoenix_(band)> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Jessi_Colter> .
+
+<http://w3id.org/polifonia/pilot/meetups/226445/10/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/98c7242894844ecd6ec94af67ac8247d> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/personallife> ;
+    ns1:hasConfidence "0.88430196" ;
+    ns1:hasEvidenceText "In 1968, Redding formed the group Fat Mattress with another Kent musician, Neil Landon." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Neil_Landon>,
+        <http://dbpedia.org/resource/Otis_Redding> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Kent> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Noel_Redding> .
+
+<http://w3id.org/polifonia/pilot/meetups/226445/14/19> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/cbb3077200784eeeb8e912f2b387fe36>,
+        <http://w3id.org/polifonia/pilot/meetups/d8cb2adda1f2b549f7896bd7a9393d64> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/businessmeeting> ;
+    ns1:hasConfidence "0.8839518" ;
+    ns1:hasEvidenceText "Redding's last performance was in Clonakilty at De Barras pub, where he had held the Friday night residency for nearly 20 years, performing with some of the local musicians who appeared on his last album Thank You, Goodnight and Good Luck including Steve Pawsey, Jeff Ward, Jim O'Neil, Eric Bell and Les Sampson." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Charles_Goodnight>,
+        <http://dbpedia.org/resource/Eric_Bell>,
+        <http://dbpedia.org/resource/Jacques-Melchior_Saint-Laurent,_Comte_de_Barras>,
+        <http://dbpedia.org/resource/Jeff_Ward_(motorsports)>,
+        <http://dbpedia.org/resource/Jim_O'Neil_(American_football)>,
+        <http://dbpedia.org/resource/Joseph_Lade_Pawsey>,
+        <http://dbpedia.org/resource/Otis_Redding>,
+        <http://dbpedia.org/resource/Ralph_Sampson> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Clonakilty> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Noel_Redding> .
+
+<http://w3id.org/polifonia/pilot/meetups/226445/6/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/16a4ed9c9fa73c61d334379cf0f056fa>,
+        <http://w3id.org/polifonia/pilot/meetups/3b4fd711a7030ffff57ecdfda095a549> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/education> ;
+    ns1:hasConfidence "0.80731475" ;
+    ns1:hasEvidenceText "At 17 Redding became a professional musician and toured clubs in Scotland and Germany with Neil Landon and the Burnettes (formed in late 1962) and the Loving Kind (formed in November 1965)." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Neil_Landon>,
+        <http://dbpedia.org/resource/Otis_Redding>,
+        <http://dbpedia.org/resource/Scotland> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Germany> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Noel_Redding> .
+
+<http://w3id.org/polifonia/pilot/meetups/226445/8/8> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/6f15ea05880da28845a0ca5f8e52ad77> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/businessmeeting> ;
+    ns1:hasConfidence "0.9998696" ;
+    ns1:hasEvidenceText "Redding responded by quitting the Experience during the American tour on June 29, 1969, and returned to England." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/England>,
+        <http://dbpedia.org/resource/Otis_Redding> ;
+    ns1:hasPlace <http://dbpedia.org/resource/United_States> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Noel_Redding> .
+
+<http://w3id.org/polifonia/pilot/meetups/2974145/0/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/10732f7825764f167d4606139e7eb167> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/musicmaking> ;
+    ns1:hasConfidence "0.994169" ;
+    ns1:hasEvidenceText "Chuck Jackson (born July 22, 1937) is an American R&B singer who was one of the first artists to record material by Burt Bacharach and Hal David successfully." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Burt_Bacharach>,
+        <http://dbpedia.org/resource/Chuck_Jackson>,
+        <http://dbpedia.org/resource/Hal_David> ;
+    ns1:hasPlace <http://dbpedia.org/resource/United_States> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Chuck_Jackson> .
+
+<http://w3id.org/polifonia/pilot/meetups/298563/0/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/28ed839540919f638b49bae4b221e77f> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/publiccelebration> ;
+    ns1:hasConfidence "0.996657" ;
+    ns1:hasEvidenceText "Samuel John \"Lightnin'\" Hopkins (March 15, 1912 – January 30, 1982) was an American country blues singer, songwriter, guitarist and occasional pianist from Centerville, Texas." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Lightnin'_Slim>,
+        <http://dbpedia.org/resource/Samuel_John> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Centerville,_Texas>,
+        <http://dbpedia.org/resource/United_States> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Lightnin'_Hopkins> .
+
+<http://w3id.org/polifonia/pilot/meetups/298563/5/9> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/5c59534af18b691155e5aa49ea213102> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/musicmaking> ;
+    ns1:hasConfidence "0.7556708" ;
+    ns1:hasEvidenceText "He made his debut at Carnegie Hall on October 14, 1960, alongside Joan Baez and Pete Seeger, performing the spiritual \"Mary Don't You Weep\"." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Joan_Baez>,
+        <http://dbpedia.org/resource/Pete_Seeger> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Carnegie_Hall> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Lightnin'_Hopkins> .
+
+<http://w3id.org/polifonia/pilot/meetups/298563/68/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/6351bf9dce654515bf1ddbd6426dfa97>,
+        <http://w3id.org/polifonia/pilot/meetups/ef6572e4cd58bb39a3f4e82fc64fe9f0>,
+        <http://w3id.org/polifonia/pilot/meetups/f80bf05527157a8c2a7bb63b22f49aaa> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/musicmaking> ;
+    ns1:hasConfidence "0.99794596" ;
+    ns1:hasEvidenceText "The Rising Sun Collection (Just a Memory, 1980 [1996]) shared disc with Louisiana Red, Sonny Terry and Brownie McGhee" ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Brownie_McGhee>,
+        <http://dbpedia.org/resource/Louisiana_Red>,
+        <http://dbpedia.org/resource/Sonny_Terry> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Rising_Sun_Auto_Camp> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Lightnin'_Hopkins> .
+
+<http://w3id.org/polifonia/pilot/meetups/299412/61/1> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/ef6572e4cd58bb39a3f4e82fc64fe9f0> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/musicmaking> ;
+    ns1:hasConfidence "0.99550915" ;
+    ns1:hasEvidenceText "Jolliver Arkansaw - Home - keyboards, guitar, ocarina and bass on \"Hatred Sun\"" ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Bass_guitar>,
+        <http://dbpedia.org/resource/Electric_guitar>,
+        <http://dbpedia.org/resource/Keyboard_instrument> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Arkansas_Territory> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Felix_Pappalardi> .
+
+<http://w3id.org/polifonia/pilot/meetups/299412/8/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/0cd4a869ec4292ac47fac2cca58765bf>,
+        <http://w3id.org/polifonia/pilot/meetups/4a674d3ae0bb76ac5da19c7394157df8> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/musicmaking> ;
+    ns1:hasConfidence "0.92363983" ;
+    ns1:hasEvidenceText "In May 1973, the British music magazine NME reported that Pappalardi would be producing and playing bass on Queen of the Night, the debut album for Maggie Bell, former singer of Stone the Crows, but this proved to be false." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Bass_guitar>,
+        <http://dbpedia.org/resource/Maggie_Bell> ;
+    ns1:hasPlace <http://dbpedia.org/resource/United_Kingdom> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Felix_Pappalardi> .
+
+<http://w3id.org/polifonia/pilot/meetups/309084/1/1> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/15a5578f5411e3a1f2bcf501a15ad71e>,
+        <http://w3id.org/polifonia/pilot/meetups/82331503174acbae012b2004f6431fa5> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/musicmaking> ;
+    ns1:hasConfidence "0.99999857" ;
+    ns1:hasEvidenceText "He has also written a number of other Off-Broadway musicals, including Death Takes a Holiday, nominated for eleven Drama Desk Awards; December Songs, a classical crossover song cycle commissioned by Carnegie Hall for its centennial celebration;  An American Cantata (a three-movement choral symphony commissioned by the Kennedy Center for the Millennium celebration); Tom Sawyer: A Ballet in Three Acts – a full-length story-ballet commissioned by the Kansas City Ballet for the opening of the new  Kauffman Center for the Performing Arts in Kansas City; a Cello Concerto, premiered by Yo-Yo Ma with Sir Gilbert Levine conducting  and other pieces for both Chamber ensembles and solo piano." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Gilbert_Levine>,
+        <http://dbpedia.org/resource/Yo-Yo_Ma> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Carnegie_Hall>,
+        <http://dbpedia.org/resource/John_F._Kennedy_Center_for_the_Performing_Arts>,
+        <http://dbpedia.org/resource/Kansas_City_metropolitan_area>,
+        <http://dbpedia.org/resource/United_States> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Maury_Yeston> .
+
+<http://w3id.org/polifonia/pilot/meetups/309084/12/3> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/f1981e4bd8a0d6d8462016d2fc6276b3> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/musicmaking> ;
+    ns1:hasConfidence "0.9996377" ;
+    ns1:hasEvidenceText "Subsequently, after composing the music for Broadway's 2009 revival of The Royal Family, Yeston wrote the music and lyrics to Death Takes a Holiday, a musical version of the play La Morte in Vacanza by Alberto Casella (later a film called Death Takes a Holiday), with a book by Peter Stone and Thomas Meehan." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Alfredo_Casella>,
+        <http://dbpedia.org/resource/Peter_Stone>,
+        <http://dbpedia.org/resource/Thomas_Meehan_(writer)> ;
+    ns1:hasPlace <http://dbpedia.org/resource/La_Morte> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Maury_Yeston> .
+
+<http://w3id.org/polifonia/pilot/meetups/309084/13/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/ac725768466500046904d27b548d75c5> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/businessmeeting> ;
+    ns1:hasConfidence "0.9996604" ;
+    ns1:hasEvidenceText "He is currently working on an adaptation of a Preston Sturges film which stars Barbara Stanwyck and Henry Fonda, The Lady Eve, with a book by Sandy Rustin and Thomas Meehan, and is developing a new original musical, A Bridge For All Time, based on the story of the building of the Brooklyn Bridge." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Barbara_Stanwyck>,
+        <http://dbpedia.org/resource/Henry_Fonda>,
+        <http://dbpedia.org/resource/Preston_Sturges>,
+        <http://dbpedia.org/resource/Thomas_Meehan_(writer)> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Brooklyn_Bridge> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Maury_Yeston> .
+
+<http://w3id.org/polifonia/pilot/meetups/309084/24/1> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/4a3e00961a08879c34f91ca0070ea2f5>,
+        <http://w3id.org/polifonia/pilot/meetups/c8758b517083196f05ac29810b924aca>,
+        <http://w3id.org/polifonia/pilot/meetups/f1981e4bd8a0d6d8462016d2fc6276b3> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/musicmaking> ;
+    ns1:hasConfidence "0.99986994" ;
+    ns1:hasEvidenceText "Revue at the York Theatre CompanyFilmNine (2009),BalletTom Sawyer: A Ballet in Three Acts a 90-minute story Ballet, commissioned by Kansas City Ballet (2011)Other worksGoya: A Life In Song (1989; one of Barbra Streisand's pop hits, \"Till I Loved You\" is from the show)" ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Amos_Sawyer>,
+        <http://dbpedia.org/resource/Barbra_Streisand> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Kansas_City_metropolitan_area>,
+        <http://dbpedia.org/resource/York_Theatre> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Maury_Yeston> .
+
+<http://w3id.org/polifonia/pilot/meetups/309084/5/21> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/bd6e3b8781f4e13d0cac6363b9b337cb> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/education> ;
+    ns1:hasConfidence "0.9008109" ;
+    ns1:hasEvidenceText "He then pursued a musicology doctorate at Yale and enrolled in the BMI Lehman Engel Musical Theater Workshop, traveling to New York City each week, where he and other aspiring composer/lyricists, including Ed Kleban, Alan Menken, and Howard Ashman, were able to try out material for established Broadway producers and directors." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Alan_Menken>,
+        <http://dbpedia.org/resource/Howard_Ashman> ;
+    ns1:hasPlace <http://dbpedia.org/resource/New_York_City> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Maury_Yeston> .
+
+<http://w3id.org/polifonia/pilot/meetups/309084/62/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/33a39384110dec921803fa5d841363af> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/businessmeeting> ;
+    ns1:hasConfidence "0.9945747" ;
+    ns1:hasEvidenceText "The Film version of Nine, (Soundtrack recording): Daniel Day-Lewis, Marion Cotillard, Penélope Cruz, Judi Dench, Fergie, Kate Hudson, Nicole Kidman, Sophia Loren" ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Daniel_Day-Lewis>,
+        <http://dbpedia.org/resource/Judi_Dench>,
+        <http://dbpedia.org/resource/Marion_Cotillard>,
+        <http://dbpedia.org/resource/Nicole_Kidman>,
+        <http://dbpedia.org/resource/Sophia_Loren> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Hudson_River> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Maury_Yeston> .
+
+<http://w3id.org/polifonia/pilot/meetups/309084/7/15> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/b3b4d2dbedc99fe843fd3dedb02f086f> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/musicmaking> ;
+    ns1:hasConfidence "0.9999999" ;
+    ns1:hasEvidenceText "He also expanded Call From The Vatican for Anita Morris once he discovered she could sing a high C. In 1981, while collaborating on Nine, Tune asked Yeston to write incidental music for an American production of Caryl Churchill's play Cloud Nine." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Anita_Morris>,
+        <http://dbpedia.org/resource/Caryl_Churchill>,
+        <http://dbpedia.org/resource/Liliane_Montevecchi>,
+        <http://dbpedia.org/resource/Tommy_Tune> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Holy_See>,
+        <http://dbpedia.org/resource/United_States> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Maury_Yeston> .
+
+<http://w3id.org/polifonia/pilot/meetups/309084/9/3> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/f80137d7882d786f5428b554946927d5> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/musicmaking> ;
+    ns1:hasConfidence "0.99998367" ;
+    ns1:hasEvidenceText "After Grand Hotel opened on Broadway in November 1989, Yeston, along with Wright and Forrest, was nominated for the Tony Award and two Drama Desk Awards for best score." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Frank_Lloyd_Wright>,
+        <http://dbpedia.org/resource/George_Forrest_(author)> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Grand_Brighton_Hotel> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Maury_Yeston> .
+
+<http://w3id.org/polifonia/pilot/meetups/3529094/2/2> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/660b9a145281e224fd12b1d8977bf941>,
+        <http://w3id.org/polifonia/pilot/meetups/f221955dfd67ba1a9e556d8382f3c64f> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/education> ;
+    ns1:hasConfidence "0.8697516" ;
+    ns1:hasEvidenceText "Goetschius was the organist of the Second Presbyterian Church from 1868–1870 and of the First Presbyterian from 1870–1873, and pianist of Mr. Benson's Paterson Choral Society." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Alex_Paterson>,
+        <http://dbpedia.org/resource/Percy_Goetschius> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Second_Presbyterian_Church_(Chicago)> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Percy_Goetschius> .
+
+<http://w3id.org/polifonia/pilot/meetups/399251/6/1> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/9d7311ba459f9e45ed746755a32dcd11>,
+        <http://w3id.org/polifonia/pilot/meetups/d5c186983b52c4551ee00f72316c6eaa> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/publiccelebration> ;
+    ns1:hasConfidence "0.90676177" ;
+    ns1:hasEvidenceText "His colleagues there included the writers Stanley Elkin, Howard Nemerov (1988 Poet Laureate of the United States), and Mona Van Duyn (1992 Poet Laureate)." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Howard_Nemerov>,
+        <http://dbpedia.org/resource/Mona_Van_Duyn>,
+        <http://dbpedia.org/resource/Stanley_Elkin> ;
+    ns1:hasPlace <http://dbpedia.org/resource/St._Louis>,
+        <http://dbpedia.org/resource/United_States> ;
+    ns1:hasSubject <http://dbpedia.org/resource/William_H._Gass> .
+
+<http://w3id.org/polifonia/pilot/meetups/399251/8/3> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/d47268e9db2e9aa3827bba3afb7ff94a> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/personallife> ;
+    ns1:hasConfidence "0.83815175" ;
+    ns1:hasEvidenceText "Gass was married to the architect Mary Henderson Gass, author of Parkview: A St. Louis Urban Oasis (2005)." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Gerald_Henderson_Jr.>,
+        <http://dbpedia.org/resource/Mary_I_of_England> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Oasis> ;
+    ns1:hasSubject <http://dbpedia.org/resource/William_H._Gass> .
+
+<http://w3id.org/polifonia/pilot/meetups/52339228/3/1> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/6a508a60aa3bf9510ea6acb021c94b48> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/coincidence> ;
+    ns1:hasConfidence "0.9946984" ;
+    ns1:hasEvidenceText "In New York, Henry met Sonny Terry and Brownie McGhee, and in 1951 he accompanied the duo on some recordings for the producer Bob Shad." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Bob_Shad>,
+        <http://dbpedia.org/resource/Brownie_McGhee>,
+        <http://dbpedia.org/resource/Sonny_Terry> ;
+    ns1:hasPlace <http://dbpedia.org/resource/New_York_City> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Big_Boy_Henry> .
+
+<http://w3id.org/polifonia/pilot/meetups/52811997/2/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/bd0c391a778b18780c564f5dbf382073> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/personallife> ;
+    ns1:hasConfidence "0.90487194" ;
+    ns1:hasEvidenceText "Patricia Alison \"Pat\" Bishop was born on 6 May 1940 in Port of Spain, Trinidad, to Ena and Sonny Bishop." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Patricia_Kennedy_Lawford>,
+        <http://dbpedia.org/resource/Sonny_Bishop>,
+        <http://dbpedia.org/resource/Victoria_Eugenie_of_Battenberg> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Spain>,
+        <http://dbpedia.org/resource/Trinidad> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Patricia_Bishop> .
+
+<http://w3id.org/polifonia/pilot/meetups/52811997/2/4> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/d77f00766fd3be3f2189c843a6af3fb2> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/education> ;
+    ns1:hasConfidence "0.9999901" ;
+    ns1:hasEvidenceText "In 1958, she won the Trinidad & Tobago National Government Scholarship and left for England to pursue a bachelor's degree in fine arts from King's College, Durham University." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/England>,
+        <http://dbpedia.org/resource/Fine_art>,
+        <http://dbpedia.org/resource/Victoria_Eugenie_of_Battenberg> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Trinidad> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Patricia_Bishop> .
+
+<http://w3id.org/polifonia/pilot/meetups/772715/3/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/c34a76edc054f5a5860c6d2f9ca73b4c> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/personallife> ;
+    ns1:hasConfidence "0.8816138" ;
+    ns1:hasEvidenceText "Martin Barre was born in Kings Heath, Birmingham, England, on 17 November 1946." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/England>,
+        <http://dbpedia.org/resource/Martin_Barre> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Birmingham>,
+        <http://dbpedia.org/resource/Kings_Heath> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Martin_Barre> .
+
+<http://w3id.org/polifonia/pilot/meetups/772715/4/1> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/ed655c34631e2855d15e138d02556c1e> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/businessmeeting> ;
+    ns1:hasConfidence "0.6841127" ;
+    ns1:hasEvidenceText "Then, four months later, while Gethsemane was playing in London and about to break up because of lack of money, Jethro Tull's manager, Terry Ellis, sent his card up from the audience asking Barre to audition for Jethro Tull." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Terry_Ellis>,
+        <http://dbpedia.org/resource/Terry_Ellis_(record_producer)> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Gethsemane>,
+        <http://dbpedia.org/resource/London> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Martin_Barre> .
+
+<http://w3id.org/polifonia/pilot/meetups/772715/51/0> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/d7a84628c025d30f7b2c52c958767e76> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/businessmeeting> ;
+    ns1:hasConfidence "0.5959747" ;
+    ns1:hasEvidenceText "2010 Chris Thompson, Gary Brooker, Frank Mead, Henry Spinetti, Dave Pegg (Live in Germany Classic Rock Tour)" ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Chris_Thompson_(English_musician)>,
+        <http://dbpedia.org/resource/Dave_Pegg>,
+        <http://dbpedia.org/resource/Gary_Brooker>,
+        <http://dbpedia.org/resource/Henry_Spinetti> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Germany> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Martin_Barre> .
+
+<http://w3id.org/polifonia/pilot/meetups/97205/10/1> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/3a8f7e545abc0a46b2b3efbfc5b48417>,
+        <http://w3id.org/polifonia/pilot/meetups/c5e7dfaf771d423ecf59b008369021e8> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/businessmeeting> ;
+    ns1:hasConfidence "0.9936592" ;
+    ns1:hasEvidenceText "The next year, Norman and his friend Teddy Neeley auditioned for the Los Angeles production of the rock musical Hair and were offered the roles of George Berger and Claude Bukowski, respectively; Neeley accepted, but Norman rejected the role of George, despite his own financial struggles, because \"of its glorification of drugs and free sex as the answers to today's problems\"." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Charles_Bukowski>,
+        <http://dbpedia.org/resource/George_Gershwin>,
+        <http://dbpedia.org/resource/Ted_Neeley> ;
+    ns1:hasPlace <http://dbpedia.org/resource/Los_Angeles> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Larry_Norman> .
+
+<http://w3id.org/polifonia/pilot/meetups/97205/13/18> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/650eaf62dfc7d2c2af2d298ec9f1285d> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/musicmaking> ;
+    ns1:hasConfidence "0.91282046" ;
+    ns1:hasEvidenceText "\"In September 1979, Norman performed his \"The Great American Novel\", \"a Dylanesque protest song\", for U.S. president Jimmy Carter and about 1,000 guests at the Old Fashioned Gospel Singin' concert held on the south lawn of the White House." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Bob_Dylan>,
+        <http://dbpedia.org/resource/Jimmy_Carter> ;
+    ns1:hasPlace <http://dbpedia.org/resource/White_House> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Larry_Norman> .
+
+<http://w3id.org/polifonia/pilot/meetups/97205/2/3> a ns1:Meetup ;
+    ns1:happensAt <http://w3id.org/polifonia/pilot/meetups/03e7d2ebec1e820ac34d054df7e68f48> ;
+    ns1:hasAPurpose <http://w3id.org/polifonia/pilot/meetups/personallife> ;
+    ns1:hasConfidence "0.98902774" ;
+    ns1:hasEvidenceText "In 1950 the family moved to San Francisco, where they attended an African American Pentecostal church and then a Baptist church, where Norman became a Christian at the age of five." ;
+    ns1:hasParticipant <http://dbpedia.org/resource/Baptists>,
+        <http://dbpedia.org/resource/Joe_Norman> ;
+    ns1:hasPlace <http://dbpedia.org/resource/San_Francisco> ;
+    ns1:hasSubject <http://dbpedia.org/resource/Larry_Norman> .
+
+<http://w3id.org/polifonia/pilot/meetups/03e7d2ebec1e820ac34d054df7e68f48> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1950" ;
+    time:hasBeginning "1950-01-01"^^xsd:date ;
+    time:hasEnd "1950-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/0cd4a869ec4292ac47fac2cca58765bf> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "May 1973" ;
+    time:hasBeginning "1973-05-01"^^xsd:date ;
+    time:hasEnd "1973-05-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/10732f7825764f167d4606139e7eb167> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "July 22 , 1937" ;
+    time:hasBeginning "1937-07-22"^^xsd:date ;
+    time:hasEnd "1937-07-22"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/15a5578f5411e3a1f2bcf501a15ad71e> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "the Millennium" .
+
+<http://w3id.org/polifonia/pilot/meetups/16a4ed9c9fa73c61d334379cf0f056fa> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "November 1965" ;
+    time:hasBeginning "1965-11-01"^^xsd:date ;
+    time:hasEnd "1965-11-30"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/1f71e393b3809197ed66df836fe833e5> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1946" ;
+    time:hasBeginning "1946-01-01"^^xsd:date ;
+    time:hasEnd "1946-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/2355998124adb019d2f6536dabc56255> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "March 11 , 1908–January 30 , 1913" .
+
+<http://w3id.org/polifonia/pilot/meetups/28ed839540919f638b49bae4b221e77f> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "March 15 , 1912 – January 30 , 1982" .
+
+<http://w3id.org/polifonia/pilot/meetups/33a39384110dec921803fa5d841363af> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "Day-Lewis" .
+
+<http://w3id.org/polifonia/pilot/meetups/377ae60a5dcbce524642a80baef3f746> a ns1:TimeExpression,
+        "" ;
+    ns1:hasEvidenceText "one year" .
+
+<http://w3id.org/polifonia/pilot/meetups/3a8f7e545abc0a46b2b3efbfc5b48417> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "The next year" .
+
+<http://w3id.org/polifonia/pilot/meetups/3b4fd711a7030ffff57ecdfda095a549> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "late 1962" .
+
+<http://w3id.org/polifonia/pilot/meetups/4a3e00961a08879c34f91ca0070ea2f5> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1989" ;
+    time:hasBeginning "1989-01-01"^^xsd:date ;
+    time:hasEnd "1989-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/4a674d3ae0bb76ac5da19c7394157df8> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "of the Night" .
+
+<http://w3id.org/polifonia/pilot/meetups/5c59534af18b691155e5aa49ea213102> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "October 14 , 1960" ;
+    time:hasBeginning "1960-10-14"^^xsd:date ;
+    time:hasEnd "1960-10-14"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/6351bf9dce654515bf1ddbd6426dfa97> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1996" ;
+    time:hasBeginning "1996-01-01"^^xsd:date ;
+    time:hasEnd "1996-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/650eaf62dfc7d2c2af2d298ec9f1285d> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "September 1979" ;
+    time:hasBeginning "1979-09-01"^^xsd:date ;
+    time:hasEnd "1979-09-30"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/660b9a145281e224fd12b1d8977bf941> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1870–1873" ;
+    time:hasBeginning "1870-01-01"^^xsd:date ;
+    time:hasEnd "1873-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/6a508a60aa3bf9510ea6acb021c94b48> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1951" ;
+    time:hasBeginning "1951-01-01"^^xsd:date ;
+    time:hasEnd "1951-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/6ca48a040b383011c27a92c19577d3c6> a ns1:TimeExpression,
+        ns1:TimeRange ;
+    ns1:hasEvidenceText "1958 to 1961" ;
+    time:hasBeginning "1958-01-01"^^xsd:date ;
+    time:hasEnd "1961-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/6f15ea05880da28845a0ca5f8e52ad77> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "June 29 , 1969" ;
+    time:hasBeginning "1969-06-29"^^xsd:date ;
+    time:hasEnd "1969-06-29"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/6fe554dcd0b7bcec8181fbf0afd071c1> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "the 1997" ;
+    time:hasBeginning "1997-01-01"^^xsd:date ;
+    time:hasEnd "1997-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/7d2b92b6726c241134dae6cd3fb8c182> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1975" ;
+    time:hasBeginning "1975-01-01"^^xsd:date ;
+    time:hasEnd "1975-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/82331503174acbae012b2004f6431fa5> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "December" .
+
+<http://w3id.org/polifonia/pilot/meetups/93a04b066fd81a1017825f2dcda313b2> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "night" .
+
+<http://w3id.org/polifonia/pilot/meetups/98c7242894844ecd6ec94af67ac8247d> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1968" ;
+    time:hasBeginning "1968-01-01"^^xsd:date ;
+    time:hasEnd "1968-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/9d7311ba459f9e45ed746755a32dcd11> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1988" ;
+    time:hasBeginning "1988-01-01"^^xsd:date ;
+    time:hasEnd "1988-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/a82d922b133be19c1171534e6594f754> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1967" ;
+    time:hasBeginning "1967-01-01"^^xsd:date ;
+    time:hasEnd "1967-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/ac725768466500046904d27b548d75c5> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "currently" .
+
+<http://w3id.org/polifonia/pilot/meetups/b370db259bb96c27b393e20667157e00> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "October 1942" ;
+    time:hasBeginning "1942-10-01"^^xsd:date ;
+    time:hasEnd "1942-10-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/b3b4d2dbedc99fe843fd3dedb02f086f> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1981" ;
+    time:hasBeginning "1981-01-01"^^xsd:date ;
+    time:hasEnd "1981-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/bd0c391a778b18780c564f5dbf382073> a ns1:TimeExpression,
+        ns1:TimePoint ;
+    ns1:hasEvidenceText "6 May 1940" ;
+    time:hasBeginning "1940-05-06"^^xsd:date ;
+    time:hasEnd "1940-05-06"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/bd6e3b8781f4e13d0cac6363b9b337cb> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "each week" .
+
+<http://w3id.org/polifonia/pilot/meetups/c3395dd46c34fa7fd8d729d8cf88b7a8> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1943" ;
+    time:hasBeginning "1943-01-01"^^xsd:date ;
+    time:hasEnd "1943-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/c34a76edc054f5a5860c6d2f9ca73b4c> a ns1:TimeExpression,
+        ns1:TimePoint ;
+    ns1:hasEvidenceText "17 November 1946" ;
+    time:hasBeginning "1946-11-17"^^xsd:date ;
+    time:hasEnd "1946-11-17"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/c5e7dfaf771d423ecf59b008369021e8> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "today" .
+
+<http://w3id.org/polifonia/pilot/meetups/c8758b517083196f05ac29810b924aca> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "2011" ;
+    time:hasBeginning "2011-01-01"^^xsd:date ;
+    time:hasEnd "2011-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/cbb3077200784eeeb8e912f2b387fe36> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "the Friday night" .
+
+<http://w3id.org/polifonia/pilot/meetups/coincidence> a ns1:Purpose ;
+    rdfs:label "Coincidence" .
+
+<http://w3id.org/polifonia/pilot/meetups/d46e1fcf4c07ce4a69ee07e4134bcef1> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1965" ;
+    time:hasBeginning "1965-01-01"^^xsd:date ;
+    time:hasEnd "1965-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/d47268e9db2e9aa3827bba3afb7ff94a> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "2005" ;
+    time:hasBeginning "2005-01-01"^^xsd:date ;
+    time:hasEnd "2005-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/d5c186983b52c4551ee00f72316c6eaa> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1992" ;
+    time:hasBeginning "1992-01-01"^^xsd:date ;
+    time:hasEnd "1992-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/d77f00766fd3be3f2189c843a6af3fb2> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1958" ;
+    time:hasBeginning "1958-01-01"^^xsd:date ;
+    time:hasEnd "1958-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/d7a84628c025d30f7b2c52c958767e76> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "2010" ;
+    time:hasBeginning "2010-01-01"^^xsd:date ;
+    time:hasEnd "2010-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/d8cb2adda1f2b549f7896bd7a9393d64> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "nearly 20 years" .
+
+<http://w3id.org/polifonia/pilot/meetups/dca214f60c2a6e4df40b8280a269aabd> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "May 25 , 1943" ;
+    time:hasBeginning "1943-05-25"^^xsd:date ;
+    time:hasEnd "1943-05-25"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/ed655c34631e2855d15e138d02556c1e> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "four months" .
+
+<http://w3id.org/polifonia/pilot/meetups/f106b7f99d2cb30c3db1c3cc0fde9ccb> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1961" ;
+    time:hasBeginning "1961-01-01"^^xsd:date ;
+    time:hasEnd "1961-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/f221955dfd67ba1a9e556d8382f3c64f> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1868–1870" ;
+    time:hasBeginning "1868-01-01"^^xsd:date ;
+    time:hasEnd "1870-12-31"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/f28648e013796bbbc8821a5fc93f76d6> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "later that year" .
+
+<http://w3id.org/polifonia/pilot/meetups/f80137d7882d786f5428b554946927d5> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "November 1989" ;
+    time:hasBeginning "1989-11-01"^^xsd:date ;
+    time:hasEnd "1989-11-30"^^xsd:date .
+
+<http://w3id.org/polifonia/pilot/meetups/f80bf05527157a8c2a7bb63b22f49aaa> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "1980" ;
+    time:hasBeginning "1980-01-01"^^xsd:date ;
+    time:hasEnd "1980-12-31"^^xsd:date .
+
+<http://dbpedia.org/resource/Alan_Menken> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Alan_Menken> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Alex_Paterson> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Alex_Paterson> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Alfredo_Casella> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Alfredo_Casella> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Amos_Sawyer> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Amos_Sawyer> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Anita_Morris> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Anita_Morris> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Arkansas_Territory> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Arkansas_Territory> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Baptists> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Baptists> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Barbara_Stanwyck> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Barbara_Stanwyck> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Barbra_Streisand> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Barbra_Streisand> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Bat_Masterson> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Bat_Masterson> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Big_Boy_Henry> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Big_Boy_Henry> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Birmingham> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Birmingham> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Bob_Dylan> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Bob_Dylan> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Bob_Shad> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Bob_Shad> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Brooklyn_Bridge> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Brooklyn_Bridge> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Burt_Bacharach> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Burt_Bacharach> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Caryl_Churchill> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Caryl_Churchill> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Centerville,_Texas> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Centerville,_Texas> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Charles_Bukowski> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Charles_Bukowski> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Charles_Goodnight> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Charles_Goodnight> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Charles_de_Gaulle> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Charles_de_Gaulle> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Chris_Thompson_(English_musician)> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Chris_Thompson_(English_musician)> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Clonakilty> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Clonakilty> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Daniel_Day-Lewis> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Daniel_Day-Lewis> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Dave_Pegg> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Dave_Pegg> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Duane_Eddy> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Duane_Eddy> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Electric_guitar> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Electric_guitar> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Eric_Bell> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Eric_Bell> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Fine_art> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Fine_art> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/France> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/France> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Frank_Lloyd_Wright> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Frank_Lloyd_Wright> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Gabriela_Mistral> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Gabriela_Mistral> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Gary_Brooker> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Gary_Brooker> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Gene_Barry> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Gene_Barry> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/George_Forrest_(author)> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/George_Forrest_(author)> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/George_Gershwin> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/George_Gershwin> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Gerald_Henderson_Jr.> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Gerald_Henderson_Jr.> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Gethsemane> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Gethsemane> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Gilbert_Levine> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Gilbert_Levine> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Grace_Glueck> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Grace_Glueck> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Grand_Brighton_Hotel> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Grand_Brighton_Hotel> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Hal_David> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Hal_David> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Henry_Fonda> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Henry_Fonda> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Henry_Spinetti> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Henry_Spinetti> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Holy_See> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Holy_See> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Howard_Ashman> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Howard_Ashman> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Howard_Nemerov> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Howard_Nemerov> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Hudson_River> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Hudson_River> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Jacques-Melchior_Saint-Laurent,_Comte_de_Barras> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Jacques-Melchior_Saint-Laurent,_Comte_de_Barras> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Jeff_Ward_(motorsports)> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Jeff_Ward_(motorsports)> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Jim_O'Neil_(American_football)> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Jim_O'Neil_(American_football)> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Jimmy_Carter> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Jimmy_Carter> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Joan_Baez> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Joan_Baez> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Joe_Norman> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Joe_Norman> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/John_F._Kennedy_Center_for_the_Performing_Arts> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/John_F._Kennedy_Center_for_the_Performing_Arts> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Joseph_Lade_Pawsey> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Joseph_Lade_Pawsey> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Judi_Dench> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Judi_Dench> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Justin_Masterson> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Justin_Masterson> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Kent> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Kent> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Keyboard_instrument> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Keyboard_instrument> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Kings_Heath> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Kings_Heath> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/La_Morte> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/La_Morte> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Librarian> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Librarian> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Lightnin'_Slim> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Lightnin'_Slim> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Liliane_Montevecchi> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Liliane_Montevecchi> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/London> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/London> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Long_Island> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Long_Island> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Louisiana_Red> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Louisiana_Red> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Maggie_Bell> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Maggie_Bell> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Marion_Cotillard> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Marion_Cotillard> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Mary_I_of_England> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Mary_I_of_England> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Mona_Van_Duyn> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Mona_Van_Duyn> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/New_Jersey> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/New_Jersey> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Nicole_Kidman> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Nicole_Kidman> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Oasis> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Oasis> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Patricia_Kennedy_Lawford> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Patricia_Kennedy_Lawford> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Pete_Seeger> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Pete_Seeger> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Peter_Stone> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Peter_Stone> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Phoenix_(band)> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Phoenix_(band)> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/President_of_France> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/President_of_France> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Preston_Sturges> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Preston_Sturges> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Princess_Beatrice_of_the_United_Kingdom> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Princess_Beatrice_of_the_United_Kingdom> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Puppeteer> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Puppeteer> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Ralph_Sampson> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Ralph_Sampson> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Rising_Sun_Auto_Camp> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Rising_Sun_Auto_Camp> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Samuel_John> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Samuel_John> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/San_Francisco> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/San_Francisco> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Santa_Monica_Civic_Auditorium> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Santa_Monica_Civic_Auditorium> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Scotland> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Scotland> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Second_Presbyterian_Church_(Chicago)> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Second_Presbyterian_Church_(Chicago)> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Sonny_Bishop> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Sonny_Bishop> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Sophia_Loren> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Sophia_Loren> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Spain> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Spain> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/St._Louis> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/St._Louis> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Stanley_Elkin> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Stanley_Elkin> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Ted_Neeley> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Ted_Neeley> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Terry_Ellis> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Terry_Ellis> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Terry_Ellis_(record_producer)> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Terry_Ellis_(record_producer)> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Tommy_Tune> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Tommy_Tune> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/United_Kingdom> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/United_Kingdom> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/White_House> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/White_House> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Yo-Yo_Ma> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Yo-Yo_Ma> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/York_Theatre> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/York_Theatre> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://w3id.org/polifonia/pilot/meetups/ef6572e4cd58bb39a3f4e82fc64fe9f0> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "Sun" .
+
+<http://w3id.org/polifonia/pilot/meetups/f1981e4bd8a0d6d8462016d2fc6276b3> a ns1:TimeExpression,
+        ns1:TimeReference ;
+    ns1:hasEvidenceText "2009" ;
+    time:hasBeginning "2009-01-01"^^xsd:date ;
+    time:hasEnd "2009-12-31"^^xsd:date .
+
+<http://dbpedia.org/resource/Bass_guitar> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Bass_guitar> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Brownie_McGhee> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Brownie_McGhee> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Carnegie_Hall> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Carnegie_Hall> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Chuck_Jackson> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Chuck_Jackson> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Felix_Pappalardi> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Felix_Pappalardi> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Germany> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Germany> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Kansas_City_metropolitan_area> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Kansas_City_metropolitan_area> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Kelvim_Escobar> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Kelvim_Escobar> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Los_Angeles> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Los_Angeles> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Lyndon_B._Johnson> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Lyndon_B._Johnson> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Neil_Landon> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Neil_Landon> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Patricia_Bishop> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Patricia_Bishop> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Percy_Goetschius> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Percy_Goetschius> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Sonny_Terry> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Sonny_Terry> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Thomas_Meehan_(writer)> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Thomas_Meehan_(writer)> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Trinidad> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Trinidad> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://dbpedia.org/resource/Victoria_Eugenie_of_Battenberg> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Victoria_Eugenie_of_Battenberg> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Waylon_Jennings> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Waylon_Jennings> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/William_H._Gass> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/William_H._Gass> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Clarence_Cameron_White> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Clarence_Cameron_White> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/England> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/England> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Larry_Norman> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Larry_Norman> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Lightnin'_Hopkins> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Lightnin'_Hopkins> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Martin_Barre> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Martin_Barre> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Noel_Redding> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Noel_Redding> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Otis_Redding> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Otis_Redding> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/Jessi_Colter> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Jessi_Colter> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/New_York_City> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/New_York_City> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://w3id.org/polifonia/pilot/meetups/education> a ns1:Purpose ;
+    rdfs:label "Education" .
+
+<http://w3id.org/polifonia/pilot/meetups/publiccelebration> a ns1:Purpose ;
+    rdfs:label "Public celebration" .
+
+<http://w3id.org/polifonia/pilot/meetups/businessmeeting> a ns1:Purpose ;
+    rdfs:label "Business meeting" .
+
+<http://dbpedia.org/resource/Maury_Yeston> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Maury_Yeston> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://w3id.org/polifonia/pilot/meetups/personallife> a ns1:Purpose ;
+    rdfs:label "Personal life" .
+
+<http://dbpedia.org/resource/Marisol_Escobar> a ns1:Participant ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/Marisol_Escobar> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Person> .
+
+<http://dbpedia.org/resource/United_States> a ns1:Location ;
+    ns1:hasDBPediaEntity <http://dbpedia.org/resource/United_States> ;
+    rdfs:seeAlso <https://w3id.org/polifonia/ontology/core/Place> .
+
+<http://w3id.org/polifonia/pilot/meetups/musicmaking> a ns1:Purpose ;
+    rdfs:label "Music making" .
+

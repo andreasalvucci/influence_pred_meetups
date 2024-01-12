@@ -10,7 +10,7 @@ do
     do
       python main.py \
         -m $model \
-        -i resources/meetups_40.ttl \
+        -i resources/meetups_20.ttl \
         -tp "http://w3id.org/polifonia/ontology/meetups-ontology#hasParticipant" \
         -ip "http://w3id.org/polifonia/ontology/meetups-ontology#hasRole" \
         --device "cpu" \
